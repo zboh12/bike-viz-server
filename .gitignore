@@ -1,0 +1,6 @@
+node_modules
+/resources/static/css/*.*.css
+/resources/static/css/*.*.css.map
+/resources/static/js/*.*.js
+/resources/static/js/*.*.js.map
+/yarn-error.log
